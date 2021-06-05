@@ -1,0 +1,2 @@
+switch :
+        in order to show only single page out of multiple pages
